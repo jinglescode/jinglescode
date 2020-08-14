@@ -12,7 +12,7 @@
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
+---
 
 ### 📕 Latest Blog Posts
 
@@ -28,7 +28,7 @@
 
 ---
 
-![Jingles github stats](https://github-readme-stats.vercel.app/api?username=jinglescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Jingles github stats](https://github-readme-stats.vercel.app/api?username=jinglescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues)
 
 [website]: https://jinglescode.github.io/
 [readings]: https://jinglescode.github.io/readings
