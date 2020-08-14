@@ -17,6 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intelligent AI? Here’s How You Can Evaluate.](https://jinglescode.github.io/2020/06/19/intelligent-ai-heres-how-you-evaluate/)
+- [State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)
+- [Illustrated Guide to Transformer](https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/)
+- [3 Types of Sequence Prediction Problems](https://jinglescode.github.io/2020/05/21/three-types-sequence-prediction-problems/)
+- [Babies are awesome… Humans are the OG neural net.](https://jinglescode.github.io/2020/05/10/babies-awesome-humans-og-neural-net/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
