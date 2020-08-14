@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Hong Jing - aka [Jingles][website] 👋
 
-<!--
-**jinglescode/jinglescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Data Scientist, and a PhD Student!
 
-Here are some ideas to get you started:
+- I'm currently working on my research on brain-computer interface, it is a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
+- I'm currently working on a React project
+- I write about machine learning, research and self-improvement on my [blog][website]
+- I store my readings on [github][readings] and Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][website]
+
+[website]: https://jinglescode.github.io/
+[readings]: https://jinglescode.github.io/readings
+[linkedin]: https://www.linkedin.com/in/jingles/
