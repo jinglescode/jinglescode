@@ -23,6 +23,11 @@
 - [Illustrated Guide to Transformer](https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/)
 - [3 Types of Sequence Prediction Problems](https://jinglescode.github.io/2020/05/21/three-types-sequence-prediction-problems/)
 - [Babies are awesome… Humans are the OG neural net.](https://jinglescode.github.io/2020/05/10/babies-awesome-humans-og-neural-net/)
+- [Can We Use GANs Beyond Generating Art?](https://jinglescode.github.io/2020/05/08/use-gan-beyond-art/)
+- [Setting up LaTeX on your Atom Editor](https://jinglescode.github.io/2020/04/25/setup-latex-atom/)
+- [How Radiologists used Computer Vision to Diagnose COVID-19](https://jinglescode.github.io/2020/04/13/radiologists-computer-vision-diagnose-covid/)
+- [How Artificial Intelligence Played a Critical Role in this Pandemic](https://jinglescode.github.io/datascience/2020/04/11/ai-played-critical-role-pandemic/)
+- [Realistic Deepfakes in 5 Minutes on Colab](https://jinglescode.github.io/2020/03/31/deepfake-existence/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
