@@ -20,6 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Signals](https://jinglescode.github.io/2020/09/15/an-introduction-to-signals/)
 - [Intelligent AI? Here’s How You Can Evaluate.](https://jinglescode.github.io/2020/06/19/intelligent-ai-heres-how-you-evaluate/)
 - [State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)
 - [Illustrated Guide to Transformer](https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/)
@@ -29,7 +30,6 @@
 - [Setting up LaTeX on your Atom Editor](https://jinglescode.github.io/2020/04/25/setup-latex-atom/)
 - [How Radiologists used Computer Vision to Diagnose COVID-19](https://jinglescode.github.io/2020/04/13/radiologists-computer-vision-diagnose-covid/)
 - [How Artificial Intelligence Played a Critical Role in this Pandemic](https://jinglescode.github.io/datascience/2020/04/11/ai-played-critical-role-pandemic/)
-- [Realistic Deepfakes in 5 Minutes on Colab](https://jinglescode.github.io/2020/03/31/deepfake-existence/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
