@@ -20,6 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 ways to get started into ML, ranked from easiest to hardest](https://jinglescode.github.io/2020/11/11/ways-start-ml/)
 - [How Convolutional Layers Work in Deep Learning Neural Networks?](https://jinglescode.github.io/2020/11/01/how-convolutional-layers-work-deep-learning-neural-networks/)
 - [An Introduction to Signals](https://jinglescode.github.io/2020/09/15/an-introduction-to-signals/)
 - [Intelligent AI? Here’s How You Can Evaluate.](https://jinglescode.github.io/2020/06/19/intelligent-ai-heres-how-you-evaluate/)
@@ -29,7 +30,6 @@
 - [Babies are awesome… Humans are the OG neural net.](https://jinglescode.github.io/2020/05/10/babies-awesome-humans-og-neural-net/)
 - [Can We Use GANs Beyond Generating Art?](https://jinglescode.github.io/2020/05/08/use-gan-beyond-art/)
 - [Setting up LaTeX on your Atom Editor](https://jinglescode.github.io/2020/04/25/setup-latex-atom/)
-- [How Radiologists used Computer Vision to Diagnose COVID-19](https://jinglescode.github.io/2020/04/13/radiologists-computer-vision-diagnose-covid/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
