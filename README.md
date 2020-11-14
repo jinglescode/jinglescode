@@ -20,6 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Learned Optimizers Outperform Standard Optimizers like Adam](https://jinglescode.github.io/2020/11/14/learned-optimizers-outperform-standard-optimizers-like-adam/)
 - [7 ways to get started into ML, ranked from easiest to hardest](https://jinglescode.github.io/2020/11/11/ways-start-ml/)
 - [How Convolutional Layers Work in Deep Learning Neural Networks?](https://jinglescode.github.io/2020/11/01/how-convolutional-layers-work-deep-learning-neural-networks/)
 - [An Introduction to Signals](https://jinglescode.github.io/2020/09/15/an-introduction-to-signals/)
@@ -29,7 +30,6 @@
 - [3 Types of Sequence Prediction Problems](https://jinglescode.github.io/2020/05/21/three-types-sequence-prediction-problems/)
 - [Babies are awesome… Humans are the OG neural net.](https://jinglescode.github.io/2020/05/10/babies-awesome-humans-og-neural-net/)
 - [Can We Use GANs Beyond Generating Art?](https://jinglescode.github.io/2020/05/08/use-gan-beyond-art/)
-- [Setting up LaTeX on your Atom Editor](https://jinglescode.github.io/2020/04/25/setup-latex-atom/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
