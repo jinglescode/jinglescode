@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Hong Jing - aka [Jingles][website]
 
-## 🤠 I'm a Developer, Data Scientist, and a PhD Student!
+## 🤠 I'm a Data Scientist, a PhD Student and a Web Developer!
 
-- I'm currently working on my research on brain-computer interface, a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
-- I'm currently working on a React project
+- I'm currently working on my PhD research, applying machine learning on brain-computer interface applying in eyecare, it is a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
 - I write about machine learning, research and self-improvement on my [blog][website] and [Medium][medium]
-- I store my notes on [Github][readings] and Notion
+- I store my research notes on [Github][readings] and Notion
 
 ### 📡 Connect with me:
 
@@ -39,7 +38,7 @@
 ![Jingles github stats](https://github-readme-stats.vercel.app/api?username=jinglescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues)
 
 [website]: https://jinglescode.github.io/
-[readings]: https://github.com/jinglescode/readings/issues
+[readings]: https://github.com/jinglescode/papers/issues
 [linkedin]: https://www.linkedin.com/in/jingles/
 [medium]: https://medium.com/@jinglesnote
 [github]: https://github.com/jinglescode
