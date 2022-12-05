@@ -1,18 +1,18 @@
-### Hi there 👋 I'm Hong Jing - aka [Jingles][website]
+### Hi there 👋 I'm Hong Jing, you can call me [Jingles][website]
 
-## 🤠 I'm a Data Scientist, a PhD Student and a Web Developer!
+## 🤠 I'm a Data Scientist, a Blockchain Developer, PhD in Machine learning and Neuroscience
 
-- I'm currently working on my PhD research, applying machine learning on brain-computer interface applying in eyecare, it is a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
-- I write about machine learning, research and self-improvement on my [blog][website] and [Medium][medium]
-- I store my research notes on [Github][readings] and Notion
+- Currently working on my PhD research, applying machine learning on brain-computer interface applying in eyecare, it is a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
+- Working on [Meshjs](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain
+- Write about machine learning, research and self-improvement on my [blog][website] and [Medium][medium]
+- Store my research notes on [Github][readings] and Notion
 
 ### 📡 Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-<br/>
+- [Medium][medium]
+- [LinkedIn][linkedin]
+- [GitHub][github]
+- [Twitter][twitter]
 
 ---
 
@@ -42,3 +42,5 @@
 [linkedin]: https://www.linkedin.com/in/jingles/
 [medium]: https://medium.com/@jinglesnote
 [github]: https://github.com/jinglescode
+[twitter]: https://twitter.com/jinglescode
+
