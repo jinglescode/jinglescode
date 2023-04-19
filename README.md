@@ -1,46 +1,39 @@
-### Hi there 👋 I'm Hong Jing, you can call me [Jingles][website]
+<h1 align="center">
+   Hong Jing (Jingles)
+</h1>
 
-## 🤠 I'm a Data Scientist, a Blockchain Developer, PhD in Machine learning and Neuroscience
+<h4 align="center">Software Development • Machine Learning • Blockchain</h4>
 
-- Currently working on my PhD research, applying machine learning on brain-computer interface applying in eyecare, it is a [fascinating combination between AI and Neuroscience](https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/)
-- Working on [Meshjs](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain
-- Write about machine learning, research and self-improvement on my [blog][website] and [Medium][medium]
-- Store my research notes on [Github][readings] and Notion
+<p align="center">
+    <a href="https://jingles.dev/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/jingles.dev-FF7139.svg?&style=flat-square&logo=Firefox-Browser&logoColor=white&link=https://jingles.dev/"></a>
+    <a href="https://github.com/jinglescode" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jinglescode-%23121011?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jinglescode"></a>
+    <a href="https://twitter.com/jinglescode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@jinglescode-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jinglescode"></a>
+    <a href="https://medium.com/@jinglesnote" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@jinglesnote-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jinglesnote"></a>
+    <a href="https://www.linkedin.com/in/jingles" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@jingles-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jingles/"></a>
+    <a href="https://stackoverflow.com/users/2611189/jingles" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-@jingles-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/2611189/jingles"></a>
+</p>
 
-### 📡 Connect with me:
+<hr/>
 
-- [Medium][medium]
-- [LinkedIn][linkedin]
-- [GitHub][github]
-- [Twitter][twitter]
+### Currently working on...
 
----
+- PhD research, applying machine learning to neuroscience and healthcare. Specifically, I work on brain-computer interfaces to diagnose eye problems. It is a [fascinating combination between AI and Neuroscience](https://jingles.dev/articles/fascinating-relationship-between-ai-neuroscience/).
 
-### 📕 Latest Blog Posts
+- [Mesh SDK](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain.
 
-<!-- BLOG-POST-LIST:START -->
-- [Learning by Doing](https://jinglescode.github.io/2021/06/26/learning-by-doing/)
-- [Coordinating Multiple RL Agents on Overcooked](https://jinglescode.github.io/2020/11/20/coordinating-multiple-rl-agents-overcooked/)
-- [Introducing Objectron: “ImageNet” to Advance 3D Object Understanding](https://jinglescode.github.io/2020/11/15/introducing-objectron-imagenet-to-advance-3d-object-understanding/)
-- [Why Learned Optimizers Outperform Standard Optimizers like Adam](https://jinglescode.github.io/2020/11/14/learned-optimizers-outperform-standard-optimizers-like-adam/)
-- [7 ways to get started into ML, ranked from easiest to hardest](https://jinglescode.github.io/2020/11/11/ways-start-ml/)
-- [How Convolutional Layers Work in Deep Learning Neural Networks?](https://jinglescode.github.io/2020/11/01/how-convolutional-layers-work-deep-learning-neural-networks/)
-- [An Introduction to Signals](https://jinglescode.github.io/2020/09/15/an-introduction-to-signals/)
-- [Intelligent AI? Here’s How You Can Evaluate.](https://jinglescode.github.io/2020/06/19/intelligent-ai-heres-how-you-evaluate/)
-- [State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)
-- [Illustrated Guide to Transformer](https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/)
-<!-- BLOG-POST-LIST:END -->
+- Write about machine learning, machine learning and self-improvement on my [blog](https://jingles.dev/) and [Medium](https://medium.com/@jinglesnote).
 
-➡️ [more blog posts...][website]
+### My 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸...
 
----
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Jingles github stats](https://github-readme-stats.vercel.app/api?username=jinglescode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[website]: https://jinglescode.github.io/
-[readings]: https://github.com/jinglescode/papers/issues
-[linkedin]: https://www.linkedin.com/in/jingles/
-[medium]: https://medium.com/@jinglesnote
-[github]: https://github.com/jinglescode
-[twitter]: https://twitter.com/jinglescode
-
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
