@@ -19,6 +19,8 @@
 
 - PhD research, applying machine learning to neuroscience and healthcare. Specifically, I work on brain-computer interfaces to diagnose eye problems. It is a [fascinating combination between AI and Neuroscience](https://jingles.dev/articles/fascinating-relationship-between-ai-neuroscience/).
 
+- [Vault](https://github.com/jinglescode/nostr-password-manager), a free, open source, and decentralized password manager, and [other NOSTR projects](https://github.com/search?q=owner%3Ajinglescode+nostr&type=repositories)
+
 - [Mesh SDK](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain.
 
 - Write about machine learning, machine learning and self-improvement on my [blog](https://jingles.dev/) and [Medium](https://medium.com/@jinglesnote).
