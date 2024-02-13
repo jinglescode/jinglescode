@@ -19,7 +19,9 @@
 
 - PhD research, applying machine learning to neuroscience and healthcare. Specifically, I work on brain-computer interfaces to diagnose eye problems. It is a [fascinating combination between AI and Neuroscience](https://jingles.dev/articles/fascinating-relationship-between-ai-neuroscience/).
 
-- [Vault](https://github.com/jinglescode/nostr-password-manager), a free, open source, and decentralized password manager, and [other NOSTR projects](https://github.com/search?q=owner%3Ajinglescode+nostr&type=repositories)
+- [w3](https://w3.do/), a free URL shortener service that is fast and fuss-free.
+
+- [Satcom](https://satcom.app/), a web extension that add collaborative layer to your Internet browsing experience.
 
 - [Mesh SDK](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain.
 
