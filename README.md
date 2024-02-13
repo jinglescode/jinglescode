@@ -23,7 +23,7 @@
 
 - [Satcom](https://satcom.app/), a web extension that add collaborative layer to your Internet browsing experience.
 
-- [Mesh SDK](https://meshjs.dev/), an open-source library to easily build applications on the Cardano blockchain.
+- [Mesh SDK](https://meshjs.dev/), an open-source software development kit library to easily build decentralized applications.
 
 - Write about machine learning, machine learning and self-improvement on my [blog](https://jingles.dev/) and [Medium](https://medium.com/@jinglesnote).
 
